@@ -4,7 +4,7 @@
 
 - Mình tên là Nguyễn Anh Tuấn
 - Sinh viên trường Đại học Công Thương TP. HCM (HUIT)
-- Ngành: An Toàn Thông Tin, chuyên ngànhL: An Toàn Hệ Thống
+- Ngành: An Toàn Thông Tin, chuyên ngành: An Toàn Hệ Thống
 
 ## Thông tin liên hệ 
 - Email : ng.atuanlab.yt@gmail.com
